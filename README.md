@@ -1,5 +1,5 @@
 # Portfolio
- A portfolio of the game I developed during my University years with my colleagues.
+ A portfolio of the games I developed during my University years with my colleagues.
 
 ## GAMES:
 -Chess: chess game developed in Java by Roberta Sallustio, Matteo Mannavola, Elio Musacchio, Dario Spinosa, Fabio Resta, Gianluca Sonnante and Paolodamiano Manzoni \
